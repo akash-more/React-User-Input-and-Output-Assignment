@@ -1,6 +1,5 @@
 # React Input and Output Assignment
 
-Assignment to do the following:
 The instructions are:
 
 Create TWO new components: UserInput and UserOutput
